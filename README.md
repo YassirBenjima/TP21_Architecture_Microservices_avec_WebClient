@@ -153,18 +153,21 @@ Content-Type: application/json
   "age": 30
 }
 ```
+<img width="1497" height="689" alt="Screenshot 2026-01-03 000005" src="https://github.com/user-attachments/assets/c63e2722-05a0-4ce9-906f-3a678fdd9668" />
 
 #### Récupérer tous les clients
 
 ```http
 GET http://localhost:8081/api/clients
 ```
+<img width="1540" height="1010" alt="Screenshot 2026-01-03 000025" src="https://github.com/user-attachments/assets/cc1068d5-7a82-4496-bea5-06f468889565" />
 
 #### Récupérer un client par ID
 
 ```http
 GET http://localhost:8081/api/clients/{id}
 ```
+<img width="1502" height="1024" alt="Screenshot 2026-01-03 000111" src="https://github.com/user-attachments/assets/b2626d28-f850-4f6d-881d-66cf507329be" />
 
 ### Service-Car (Port 8082)
 
@@ -186,6 +189,7 @@ Content-Type: application/json
 ```http
 GET http://localhost:8082/api/cars
 ```
+<img width="1523" height="1027" alt="Screenshot 2026-01-03 000153" src="https://github.com/user-attachments/assets/d0156311-f6a6-45eb-8709-82da779f7242" />
 
 #### Récupérer les voitures d'un client
 
